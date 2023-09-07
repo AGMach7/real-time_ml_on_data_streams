@@ -33,7 +33,7 @@ Ce projet est organisé en plusieurs dossiers et fichiers pour une gestion effic
    - arima.py: Module pour le modèle ARIMA.
 
 8. notebooks : Contient des notebooks Jupyter pour l'analyse et la documentation :
-   - Sujet13_3DSF.ipynb: Notebook principal.
+   - 3D_Team2.ipynb: Notebook principal.
 
 9. other : Autres fichiers et ressources :
    - other.txt: Un fichier texte contenant des informations supplémentaires.
