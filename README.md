@@ -68,7 +68,10 @@ For a step-by-step guide on installing and configuring Jenkins, please consult [
 - Make sure you have configured the configuration files, and that you have defined the "path" variable in the main.py and sendMail.py files.
 - To run a test, click "Build Now" from the Jenkins dashboard. You can then click on the build number or date to view details, or click "Console Output" to see the launch details in the console.
 - You can also run a test from a terminal (Windows cmd, etc.) using the following command:
-   python3 C:\path\to\your\project\3D\main.py
+
+   ```bash
+   python3 C:/path/to/your/project/3D/main.py
+   ```
 
 Make sure to keep this guide handy for future reference, and keep all API keys and sensitive information secure.
 

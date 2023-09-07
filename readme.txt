@@ -155,7 +155,7 @@ To use this program, carefully follow these steps:
             python3 C:\path\to\your\project\3D\main.py
 
     2.5 Save Settings
-        - Click "Save."
+        - Click "Save".
 
 3. Running a Test
 
