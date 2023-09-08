@@ -33,15 +33,12 @@ As we delve into the main steps of this project, including data collection, anal
 ## Requirements
 
 - confluent_kafka
-- matplotlib
-- numpy
-- pandas
 - pmdarima
 - requests
 - scikit-learn
 - scipy
 - statsmodels
-- urllib3
+- ...
 
 To install all project dependencies, you can run the following command:
 
