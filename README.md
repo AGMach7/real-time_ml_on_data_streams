@@ -33,15 +33,12 @@ As we delve into the main steps of this project, including data collection, anal
 ## Requirements
 
 - confluent_kafka
-- matplotlib
-- numpy
-- pandas
 - pmdarima
 - requests
 - scikit-learn
 - scipy
 - statsmodels
-- urllib3
+- ...
 
 To install all project dependencies, you can run the following command:
 
@@ -74,15 +71,3 @@ For a step-by-step guide on installing and configuring Jenkins, please consult [
    ```
 
 Make sure to keep this guide handy for future reference, and keep all API keys and sensitive information secure.
-
-## Contributing
-
-If you welcome contributions from other developers, explain how they can contribute to your project. Include guidelines for pull requests and code style.
-
-## License
-
-This project is licensed under the MIT License
-
-## Acknowledgments
-
-Acknowledge and thank your team, mentors, or anyone who contributed to the project's success.
