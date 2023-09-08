@@ -18,9 +18,9 @@ Ce projet est organisé en plusieurs dossiers et fichiers pour une gestion effic
 
 4. images : Contient des images utilisées pour la documentation et la visualisation :
    - close_values_with_prediction.png: Image de visualisation.
-   - email.png: Capture d'écran de l'e-mail envoi par le projet.
+   - email.png: Capture d'écran de l'e-mail envoyé par le projet.
    - jenkins_job_interface.png: Capture d'écran de l'interface Jenkins.
-   - job_execution.png: Capture d'écran de l'exécution des tâches.
+   - job_execution.jpeg: Capture d'écran de l'exécution des tâches.
 
 5. kafka : Comprend les scripts pour la communication Kafka :
    - consumer.py: Script pour la consommation de messages Kafka.
@@ -35,8 +35,12 @@ Ce projet est organisé en plusieurs dossiers et fichiers pour une gestion effic
 8. notebooks : Contient des notebooks Jupyter pour l'analyse et la documentation :
    - 3D_Team2.ipynb: Notebook principal.
 
-9. other : Autres fichiers et ressources :
-   - other.txt: Un fichier texte contenant des informations supplémentaires.
+9. presentations : Stocke les présentations réalisées :
+   - 1st presentation.pdf
+   - 2nd presentation.pdf
+   - 3rd presentation.pdf
+   - 4th presentation.pdf
+   - final presentation.pdf
 
 10. report : Stocke les rapports générés :
     - report.pdf: Rapport au format PDF.
@@ -44,6 +48,8 @@ Ce projet est organisé en plusieurs dossiers et fichiers pour une gestion effic
 
 11. resources : Ressources diverses :
     - 3d_project_log.txt: Journal de bord du projet.
+    - requirements.txt: Liste des dépendances du projet.
+    - resources.txt: Autres ressources du projet.
 
 12. utils : Modules utilitaires :
     - logger.py: Module pour la gestion des journaux.
@@ -74,7 +80,7 @@ This project is organized into various folders and files for efficient resource 
    - close_values_with_prediction.png: Visualization image.
    - email.png: Screenshot of the email sent by the project.
    - jenkins_job_interface.png: Screenshot of the Jenkins interface.
-   - job_execution.png: Screenshot of task execution.
+   - job_execution.jpeg: Screenshot of task execution.
 
 5. kafka: Includes scripts for Kafka communication:
    - consumer.py: Script for Kafka message consumption.
@@ -89,8 +95,12 @@ This project is organized into various folders and files for efficient resource 
 8. notebooks: Contains Jupyter notebooks for analysis and documentation:
    - 3D_Team2.ipynb: Main notebook.
 
-9. other: Other files and resources:
-   - other.txt: A text file containing additional information.
+9. presentations: Stores presentations made:
+   - 1st presentation.pdf
+   - 2nd presentation.pdf
+   - 3rd presentation.pdf
+   - 4th presentation.pdf
+   - final presentation.pdf
 
 10. report: Stores generated reports:
     - report.pdf: Report in PDF format.
@@ -98,6 +108,8 @@ This project is organized into various folders and files for efficient resource 
 
 11. resources: Miscellaneous resources:
     - 3d_project_log.txt: Project log journal.
+    - requirements.txt: List of project dependencies.
+    - resources.txt: Other project resources.
 
 12. utils: Utility modules:
     - logger.py: Module for log management.
