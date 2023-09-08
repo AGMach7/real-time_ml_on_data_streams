@@ -74,15 +74,3 @@ For a step-by-step guide on installing and configuring Jenkins, please consult [
    ```
 
 Make sure to keep this guide handy for future reference, and keep all API keys and sensitive information secure.
-
-## Contributing
-
-If you welcome contributions from other developers, explain how they can contribute to your project. Include guidelines for pull requests and code style.
-
-## License
-
-This project is licensed under the MIT License
-
-## Acknowledgments
-
-Acknowledge and thank your team, mentors, or anyone who contributed to the project's success.
