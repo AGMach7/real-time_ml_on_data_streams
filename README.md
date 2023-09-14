@@ -1,16 +1,12 @@
 # Streaming Intelligence: Real-time Machine Learning on Data Streams
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AGMach7/real-time_ml_on_data_streams/blob/main/LICENSE)
+<!-- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AGMach7/real-time_ml_on_data_streams/blob/main/LICENSE) -->
 
-## Project Overview
+<!-- ## Project Overview -->
 
-### 1. Introduction
+The project embodies our mission at [3D Smart Factory](https://3dsmartfactory.csit.ma/) to harness real-time data analysis for a critical financial challenge - predicting the closing value of the IBM stock market. In today's fast-paced financial landscape, informed investment decisions demand access to the most current data. Our project leverages cutting-edge machine learning algorithms to predict the IBM stock's closing value in real-time, empowering investors, traders, and financial analysts with a dynamic decision-making tool.
 
-The project, titled "*Real-time Machine Learning on Data Streams*", embodies the pursuit of harnessing the power of real-time data analysis and predictive modeling to address a crucial financial challenge - predicting the closing value of the IBM stock market.
-
-In today's fast-paced financial landscape, making informed investment decisions requires access to the most current and relevant data. The project is driven by the mission to provide investors, traders, and financial analysts with a cutting-edge tool that leverages machine learning to predict the closing value of the IBM stock, thus facilitating better decision-making in the dynamic world of stock trading.
-
-### 2. Objectives
+## Key Objectives
 
 The primary objectives of this project include:
 
@@ -21,14 +17,6 @@ The primary objectives of this project include:
 - Data Stream Processing: Implement efficient data stream processing techniques to handle continuous and high-velocity data from the stock market.
 
 - Performance Evaluation: Rigorously assess the accuracy and reliability of the prediction model through comprehensive performance evaluation.
-
-### 3. Background Information
-
-In the age of big data and rapid technological advancements, financial markets are increasingly influenced by vast volumes of data generated in real-time. Accurately predicting stock prices, especially for a significant player like IBM, presents both a challenge and an opportunity.
-
-This project builds upon previous work in real-time data analytics, machine learning, and financial forecasting. It seeks to apply and extend these concepts to the domain of stock market prediction, providing investors with an intelligent tool to make informed decisions.
-
-As we delve into the main steps of this project, including data collection, analysis, and model building, we will explore the methodologies and techniques employed to achieve our objectives. The subsequent sections will provide detailed insights into each aspect of the project, aiming to deliver not only predictions but also a deeper understanding of the underlying dynamics of the IBM stock market.
 
 ## Requirements
 
@@ -41,7 +29,6 @@ As we delve into the main steps of this project, including data collection, anal
 - scikit-learn
 - scipy
 - statsmodels
-- urllib3
 
 To install all project dependencies, you can run the following command:
 
@@ -70,16 +57,14 @@ For a step-by-step guide on installing and configuring Jenkins, please consult [
 - You can also run a test from a terminal (Windows cmd, etc.) using the following command:
    python3 C:\path\to\your\project\3D\main.py
 
-Make sure to keep this guide handy for future reference, and keep all API keys and sensitive information secure.
+## What's Next
 
-## Contributing
-
-If you welcome contributions from other developers, explain how they can contribute to your project. Include guidelines for pull requests and code style.
-
-## License
-
-This project is licensed under the MIT License
+Our vision extends beyond this project. We're looking to build a user-friendly interface and explore predictions for additional stock symbols, extending our reach beyond IBM's daily stock market data.
 
 ## Acknowledgments
 
-Acknowledge and thank your team, mentors, or anyone who contributed to the project's success.
+First and foremost, I want to express my heartfelt gratitude to Mr. Bertin for guiding our team throughout this journey with his invaluable expertise, patience, and unwavering support. I'd also like to extend my thanks to each member of my team for their dedication, teamwork, and passion, which created an exceptional work environment. Lastly, a big thank you to the entire 3D Smart Factory family for giving us the opportunity to contribute to such innovative and exciting projects. Your support has enriched our professional knowledge and skills.
+
+## Let's Connect
+
+If you're interested in learning more about our project or discussing potential collaborations, please don't hesitate to reach out. I'm always eager to connect with fellow professionals who share our passion for innovation.
