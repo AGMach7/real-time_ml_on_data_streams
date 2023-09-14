@@ -42,16 +42,19 @@ Ce projet est organisé en plusieurs dossiers et fichiers pour une gestion effic
    - 4th presentation.pdf
    - final presentation.pdf
 
-10. report : Stocke les rapports générés :
-    - report.pdf: Rapport au format PDF.
-    - report.docx: Rapport au format DOCX.
+10. project_guide : Contient la documentation et les guides essentiels pour ce projet :
+    - project_structure.txt : Structure du projet.
+    - readme.txt : Guide d'utilisation de ce programme.
 
-11. resources : Ressources diverses :
+11. report : Stocke les rapports générés :
+    - report.pdf: Rapport au format PDF.
+
+12. resources : Ressources diverses :
     - 3d_project_log.txt: Journal de bord du projet.
     - requirements.txt: Liste des dépendances du projet.
     - resources.txt: Autres ressources du projet.
 
-12. utils : Modules utilitaires :
+13. utils : Modules utilitaires :
     - logger.py: Module pour la gestion des journaux.
 
 N'hésitez pas à explorer les dossiers et fichiers pour en savoir plus sur la structure du projet et ses composants. Assurez-vous de consulter la documentation et les rapports pour des informations plus détaillées sur le projet.
@@ -102,16 +105,20 @@ This project is organized into various folders and files for efficient resource 
    - 4th presentation.pdf
    - final presentation.pdf
 
-10. report: Stores generated reports:
+10. project_guide : Contains essential documentation and guides for this project :
+   - project_structure.txt : Project's structure.
+   - readme.txt : Guide to use this program.
+
+11. report: Stores generated reports:
     - report.pdf: Report in PDF format.
     - report.docx: Report in DOCX format.
 
-11. resources: Miscellaneous resources:
+12. resources: Miscellaneous resources:
     - 3d_project_log.txt: Project log journal.
     - requirements.txt: List of project dependencies.
     - resources.txt: Other project resources.
 
-12. utils: Utility modules:
+13. utils: Utility modules:
     - logger.py: Module for log management.
 
 Feel free to explore the folders and files to learn more about the project's structure and components. Be sure to check the documentation and reports for more detailed information about the project.
